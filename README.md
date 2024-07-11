@@ -2,7 +2,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=04A0F7&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hi+there!;I'm+Steiden;Full-stack+web+developer+from+Russia" alt="Typing SVG" /></a>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=steiden&label=Profile%20views&color=0e75b6&style=flat" alt="steiden" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=steiden&label=Profile%20views&color=0e75b6&style=flat" alt="steiden" />
+  <a href="https://wakatime.com/@018bdc5e-a798-41d9-ac45-3887c440378b">
+    <img src="https://wakatime.com/badge/user/018bdc5e-a798-41d9-ac45-3887c440378b.svg" alt="Total time coded since Nov 17 2023" />
+  </a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steiden" alt="steiden" /></a> </p>
 
