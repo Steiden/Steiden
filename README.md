@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Steiden</h1>
-<h3 align="center">Full-stack web developer from Russia</h3>
+<div style="
+  height: 300px; 
+  background: linear-gradient(90deg, rgba(62,248,243,1) 16%, rgba(180,31,220,1) 43%, rgba(220,31,51,1) 67%, rgba(220,154,31,1) 88%); 
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+">
+  <h1 align="center" style="color: white; font-size: 40px; font-weight: 700">Hi, I'm Steiden</h1>
+  <h3 align="center" style="color: white; font-size: 32px; font-weight: 700">Full-stack web developer from Russia</h3>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steiden&label=Profile%20views&color=0e75b6&style=flat" alt="steiden" /> </p>
 
