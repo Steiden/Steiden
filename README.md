@@ -9,8 +9,6 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steiden" alt="steiden" /></a> </p>
-
 <h2 align="left">Languages:</h2>
 <a href="https://www.w3.org/TR/2014/REC-html5-20141028/single-page.html" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
